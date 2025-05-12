@@ -1,6 +1,6 @@
 # Hello Cloud & DevOps 🚀
 
-Welcome to the hands-on Cloud & DevOps lab using Python, GitHub, and Microsoft Azure.
+Welcome to the hands-on Cloud & DevOps lab using Python, GitHub, and Microsoft Azure!
 
 This repository contains a simple Flask web application that you'll use to learn how modern software projects are developed and deployed using cloud platforms and DevOps practices.
 
